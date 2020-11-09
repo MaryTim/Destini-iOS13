@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "E818A4EE-FC0C-48CB-8722-FA5BB5FA0179"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B7CA5D7A-2BC7-474E-BB84-654C123E5F90"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Destini-iOS13/Controller/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "B7CA5D7A-2BC7-474E-BB84-654C123E5F90 - 204d14a13e510f15"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Destini_iOS13.ViewController.choice2Button.getter : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "Destini-iOS13"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/antonbudkevich/Desktop/MASHA/Developer/Destini-iOS13/Destini-iOS13/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "B7CA5D7A-2BC7-474E-BB84-654C123E5F90 - 4d9fcd9bdcfbf29"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Destini_iOS13.ViewController.choice2Button.setter : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "Destini-iOS13"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/antonbudkevich/Desktop/MASHA/Developer/Destini-iOS13/Destini-iOS13/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "155">
+               </Location>
+               <Location
+                  uuid = "B7CA5D7A-2BC7-474E-BB84-654C123E5F90 - 4a88e294b07fab1a"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Destini_iOS13.ViewController.choice2Button.modify : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "Destini-iOS13"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/antonbudkevich/Desktop/MASHA/Developer/Destini-iOS13/Destini-iOS13/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  uuid = "B7CA5D7A-2BC7-474E-BB84-654C123E5F90 - 28381fa6a341f66f"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Destini_iOS13.ViewController.choice2Button.modify : Swift.Optional&lt;__C.UIButton&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Destini-iOS13"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/antonbudkevich/Desktop/MASHA/Developer/Destini-iOS13/Destini-iOS13/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "B7CA5D7A-2BC7-474E-BB84-654C123E5F90 - 52a589c4d44e889d"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Destini_iOS13.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Destini_iOS13.ViewController"
+                  moduleName = "Destini-iOS13"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/antonbudkevich/Desktop/MASHA/Developer/Destini-iOS13/Destini-iOS13/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "518">
+               </Location>
+               <Location
+                  uuid = "B7CA5D7A-2BC7-474E-BB84-654C123E5F90 - cef3215b48df42da"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Destini_iOS13.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Destini_iOS13.ViewController&gt;"
+                  moduleName = "Destini-iOS13"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/antonbudkevich/Desktop/MASHA/Developer/Destini-iOS13/Destini-iOS13/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "450">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
